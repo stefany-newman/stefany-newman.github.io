@@ -1,2 +1,2 @@
 # stefany-newman.github.io
-Stefany's Portfolio
+Stefany's Portfolio. Work in progress.
